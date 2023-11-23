@@ -2,8 +2,8 @@
 
 int main() {
     int num;
-    std::cout << "Ingresa un número: ";
+    std::cout << "Ingresa un numero: ";
     std::cin >> num;
-    std::cout << "El número ingresado es: " << num << std::endl;
+    std::cout << "El numero ingresado es: " << num << std::endl;
     return 0;
 }
