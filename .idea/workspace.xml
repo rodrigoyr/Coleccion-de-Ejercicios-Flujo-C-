@@ -9,13 +9,21 @@
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Coleccion_de_Ejercicios_Flujo_C_" targetName="Coleccion_de_Ejercicios_Flujo_C_" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e15ca3-63d9-4c58-b006-38b2438bce62" name="Changes" comment="" />
+    <list default="true" id="12e15ca3-63d9-4c58-b006-38b2438bce62" name="Changes" comment="code commit commit">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 5/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 5/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +32,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,7 +61,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Ejercicios/Coleccion-de-Ejercicios-Flujo-C-",
+    "last_opened_file_path": "C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Ejercicios/Coleccion-de-Ejercicios-Flujo-C-/Ejercicio 5",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,11 +86,47 @@
       <option name="presentableId" value="Default" />
       <updated>1700740193995</updated>
       <workItem from="1700740195345" duration="84000" />
-      <workItem from="1700755109924" duration="53000" />
+      <workItem from="1700755109924" duration="282000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1700755186055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700755186055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="code commit commit">
+      <option name="closed" value="true" />
+      <created>1700755341306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700755341306</updated>
+    </task>
+    <task id="LOCAL-00003" summary="code commit commit">
+      <option name="closed" value="true" />
+      <created>1700755352031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700755352031</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="code commit commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="code commit commit" />
   </component>
 </project>

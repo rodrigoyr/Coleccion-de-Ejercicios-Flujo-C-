@@ -16,5 +16,7 @@ int main(int argc, char* argv[]) {
         std::cerr << "No se pudo abrir el archivo.\n";
     }
     file.close();
+
+
     return 0;
 }
