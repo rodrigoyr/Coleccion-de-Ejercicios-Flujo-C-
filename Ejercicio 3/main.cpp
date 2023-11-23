@@ -10,7 +10,7 @@ int main() {
     file.open("example.txt");
     if (file) {
         file << text;
-        std::cout << "El texto se guardó correctamente.\n";
+        std::cout << "El texto se guardo correctamente.\n";
     } else {
         std::cerr << "No se pudo abrir el archivo.\n";
     }
