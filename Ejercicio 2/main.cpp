@@ -1,14 +1,10 @@
 #include <iostream>
-#include <fstream>
+#include <iomanip>
 
 int main() {
-    std::ifstream file;
-    file.open("example.txt");
-    if (!file) {
-        std::cerr << "No se pudo abrir el archivo.\n";
-    } else {
-        std::cout << "El archivo se abrio correctamente.\n";
-    }
-    file.close();
+    double num;
+    std::cout << "Ingresa un numero: ";
+    std::cin >> num;
+    std::cout << "El numero ingresado es: " << std::fixed << std::setprecision(2) << num << std::endl;
     return 0;
 }
