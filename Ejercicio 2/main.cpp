@@ -7,7 +7,7 @@ int main() {
     if (!file) {
         std::cerr << "No se pudo abrir el archivo.\n";
     } else {
-        std::cout << "El archivo se abrió correctamente.\n";
+        std::cout << "El archivo se abrio correctamente.\n";
     }
     file.close();
     return 0;
